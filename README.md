@@ -2,6 +2,10 @@ React Native app that displays products from a static JSON file containing data 
 the Shopify Storefront API. The app allows users to browse products, view details, and
 manage a shopping cart.
 
+ <img src="https://github.com/user-attachments/assets/ba94b216-7451-47df-8a8e-83ad71db4808" width="250">
+ <img src="https://github.com/user-attachments/assets/f2fc18f9-4924-4229-bcee-7998dfd7c728" width="250">
+ <img src="https://github.com/user-attachments/assets/f900bf3e-8769-4f36-8655-617aa3462f44" width="250">
+ 
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
